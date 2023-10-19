@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Babel
